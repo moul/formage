@@ -7,7 +7,7 @@ originally forked from [mongoose-admin](https://github.com/marccampbell/mongoose
 Usage
 -----
 [![npm install formage](https://nodei.co/npm/formage.png?downloads=true)](https://nodei.co/npm/formage/)
-<!-- [![NPM](https://nodei.co/npm-dl/formage.png)](https://nodei.co/npm/formage/) -->
+<!-- [![NPM](https://nodei.co/npm-dl/formage.png)](https://nodei.co/npm/formage/) [![GuardRails badge](https://badges.production.guardrails.io/moul/formage.svg)](https://www.guardrails.io) -->
 ```js
 var express = require('express'),
     app = express();
